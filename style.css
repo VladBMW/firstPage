@@ -1,0 +1,105 @@
+.container{
+    margin: 0;
+    min-width: 1440px;
+    max-width: 1440px;
+}
+.headerPhoto{
+    width:1440px;
+    height: 813px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.btn-circle  {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #8488a5;
+    border-radius: 100%;
+    top: 31.5%;
+    left: 45%;
+    cursor: pointer;
+    
+    outline: none;
+    border: 0;
+   
+}
+.btn-circle:active{
+    box-shadow: 0 0 20px 1px black;
+}
+.rectangle-red:active{
+    box-shadow: 0 0 20px 1px black;
+}
+.play{
+    
+    width: 20px;
+    height: 20px;
+    margin-bottom: 3px;
+    
+}
+.rectangle-red{
+    width: 190px;
+    height: 50px;
+    background-color: #ff6d6d;
+    position: absolute;
+    top: 44%;
+    left: 43.5%;
+    margin: -30px 0 0 -30px;
+    cursor: pointer;
+    
+    outline: none;
+    border: 0;
+    border-radius: 5px;
+}
+.rectangle-red-text{
+    font-family: 'Exo', sans-serif;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 3px;
+    line-height:50px;
+    font-size: 22px
+}
+.text-under{
+    color: #949497;
+    font-family: 'Exo', sans-serif;
+    font-weight: 100;
+    position: absolute;
+    top: 46%;
+    left: 41%;
+    font-size: 12pt;
+    line-height:56px;
+    letter-spacing: -0.5px;
+    
+    
+}
+.main-text{
+    color: #282828;
+    font-family: 'Exo', sans-serif;
+    font-weight: 100;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    font-size: 60pt;
+    line-height:75pt;
+    letter-spacing: 0.4pt;
+}
+.main-text2{
+    color: #282828;
+    font-family: 'Exo', sans-serif;
+    font-weight: 100;
+    position: absolute;
+    top: 19%;
+    left: 23%;
+    font-size: 60pt;
+    line-height:75pt;
+    letter-spacing: 0.4pt;
+}
+
+  
+
+  
+
+  
